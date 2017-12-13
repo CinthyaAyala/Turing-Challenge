@@ -9,8 +9,10 @@
 .card {
   float: left;
   width: 33.333%;
+  height: 300px;
+  background-color: yellow;
   padding: .75rem;
-  margin-bottom: 2rem;
+  margin: 2rem;
   border: 0;
 }
 
